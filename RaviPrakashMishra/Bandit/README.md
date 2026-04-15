@@ -126,3 +126,8 @@ Decoded the Base64 encoded content to get the password.
 * All commands were executed on the Bandit server using SSH.
 * Each level required understanding of basic Linux commands.
 * Brute force was not used; logical command usage was applied.
+<img width="784" height="292" alt="image" src="https://github.com/user-attachments/assets/a00539f9-bf99-45c6-84bd-1dddbd681f78" />
+<img width="1130" height="289" alt="image" src="https://github.com/user-attachments/assets/52785b72-d407-4243-a3a3-56cab0e2c3dd" />
+<img width="1256" height="335" alt="image" src="https://github.com/user-attachments/assets/98c6a4c1-142f-42fd-843c-efa851fc7f06" />
+
+
